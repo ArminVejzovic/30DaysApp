@@ -1,4 +1,4 @@
 # 30DaysApp
 30 days of adventure app
-Android App
+Android Kotlin App
 Armin Vejzovic
