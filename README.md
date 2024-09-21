@@ -51,8 +51,9 @@ Sync Gradle files to install dependencies.
 
 Run the app on an emulator or connected device:
 
-    Select a device from AVD Manager or plug in your Android device.
-    Click Run (Shift + F10) to start the app.
+Select a device from AVD Manager or plug in your Android device.
+
+Click Run (Shift + F10) to start the app.
 
 Enjoy exploring your 30 Days of Adventures!
 
